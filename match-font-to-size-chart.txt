@@ -1,0 +1,21 @@
+Font    Size (tested in Notepad++)
+12px    11pt
+14px    (NONE)
+16px    14pt
+18px    (NONE)
+20px    (NONE)
+22px    (NONE)
+24px    20pt
+28px    (NONE)
+32px    26pt
+
+Other recommendation (works in Word):
+12px    9pt
+14px    10.5pt
+16px    12pt
+18px    13.5pt
+20px    15pt
+22px    16.5pt
+24px    18pt
+28px    21pt
+32px    24pt
